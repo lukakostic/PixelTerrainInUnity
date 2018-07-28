@@ -1,4 +1,4 @@
-# ScorchedEarthInUnity
+# Destructible 2D pixel terrain in unity
 Scorched earth / worms / cortex command like terrain in unity.
 
 Runs at very good framerate on my pc so it should work on mobile too.
